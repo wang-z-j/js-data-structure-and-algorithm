@@ -1,1 +1,2 @@
-console.log('算法与诗句结构')
+// 导入栈结构的封装及测试代码
+import './Stack'
